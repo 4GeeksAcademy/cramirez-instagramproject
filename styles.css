@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(231, 217, 215, 0.938);
+    font-family:"Lobster Two";
+}
+header{background-color: white;
+}
+h1{font-size: 44px;}
+.container{
+    width: 600px;
+    margin:0 auto ;
+}
+.ab{
+    
+    background-color: white;   
+
+}
+h3{color:rgb(214, 212, 212)}
+
+img{width: 100%;}
+.a{
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+}
